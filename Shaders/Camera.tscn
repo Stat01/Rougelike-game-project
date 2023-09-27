@@ -1,0 +1,21 @@
+[gd_scene load_steps=4 format=3 uid="uid://ccyupmtl2viyw"]
+
+[ext_resource type="Shader" path="res://Shaders/Pixel_Shader.gdshader" id="1_q5apv"]
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_mt8hq"]
+render_priority = 0
+shader = ExtResource("1_q5apv")
+shader_parameter/pixel_size = 6
+
+[sub_resource type="QuadMesh" id="QuadMesh_b2blp"]
+material = SubResource("ShaderMaterial_mt8hq")
+size = Vector2(5, 5)
+
+[node name="Camera" type="Node2D"]
+
+[node name="Camera3D" type="Camera3D" parent="."]
+fov = 50.0
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="Camera3D"]
+transform = Transform3D(1, 0, 5.96046e-08, 5.96046e-08, 1, -1.49012e-07, 1.19209e-07, 0, 1, 2.14577e-06, -2.6226e-06, -1.77061)
+mesh = SubResource("QuadMesh_b2blp")
