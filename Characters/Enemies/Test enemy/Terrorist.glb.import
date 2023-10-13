@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://c3s746u5rsl0t"
-path="res://.godot/imported/Terrorist.glb-ef67bacfb1aa4a1090a0d0c3d6f88ea2.scn"
+path="res://.godot/imported/Terrorist.glb-0291b06d5c6c78e0bfd7588e9f907199.scn"
 
 [deps]
 
-source_file="res://Terrorist.glb"
-dest_files=["res://.godot/imported/Terrorist.glb-ef67bacfb1aa4a1090a0d0c3d6f88ea2.scn"]
+source_file="res://Characters/Enemies/Test enemy/Terrorist.glb"
+dest_files=["res://.godot/imported/Terrorist.glb-0291b06d5c6c78e0bfd7588e9f907199.scn"]
 
 [params]
 

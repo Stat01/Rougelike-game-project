@@ -2,8 +2,8 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://d1gb600t8g2e"
-path.s3tc="res://.godot/imported/Terrorist_stock-photo-terrorist-black-mask-pointing-finger.png-a23a5e42c5910d5ce4a1f67e5c3356bf.s3tc.ctex"
+uid="uid://7nrlbuq1xu5l"
+path.s3tc="res://.godot/imported/Terrorist_Mens_jeans_Pants_v2.png-e63fa8f115461786c19d36199e7cbd73.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ generator_parameters={}
 
 [deps]
 
-source_file="res://Terrorist_stock-photo-terrorist-black-mask-pointing-finger.png"
-dest_files=["res://.godot/imported/Terrorist_stock-photo-terrorist-black-mask-pointing-finger.png-a23a5e42c5910d5ce4a1f67e5c3356bf.s3tc.ctex"]
+source_file="res://Characters/Enemies/Test enemy/Terrorist_Mens_jeans_Pants_v2.png"
+dest_files=["res://.godot/imported/Terrorist_Mens_jeans_Pants_v2.png-e63fa8f115461786c19d36199e7cbd73.s3tc.ctex"]
 
 [params]
 

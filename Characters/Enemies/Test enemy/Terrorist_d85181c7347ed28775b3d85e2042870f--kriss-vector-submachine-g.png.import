@@ -2,8 +2,8 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://7nrlbuq1xu5l"
-path.s3tc="res://.godot/imported/Terrorist_Mens_jeans_Pants_v2.png-f856e021d74eac710b9fa048ffe4a920.s3tc.ctex"
+uid="uid://bghnqwspxxwym"
+path.s3tc="res://.godot/imported/Terrorist_d85181c7347ed28775b3d85e2042870f--kriss-vector-submachine-g.png-645c475ce822b49f29e4f9a9b3e8dbd2.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ generator_parameters={}
 
 [deps]
 
-source_file="res://Terrorist_Mens_jeans_Pants_v2.png"
-dest_files=["res://.godot/imported/Terrorist_Mens_jeans_Pants_v2.png-f856e021d74eac710b9fa048ffe4a920.s3tc.ctex"]
+source_file="res://Characters/Enemies/Test enemy/Terrorist_d85181c7347ed28775b3d85e2042870f--kriss-vector-submachine-g.png"
+dest_files=["res://.godot/imported/Terrorist_d85181c7347ed28775b3d85e2042870f--kriss-vector-submachine-g.png-645c475ce822b49f29e4f9a9b3e8dbd2.s3tc.ctex"]
 
 [params]
 

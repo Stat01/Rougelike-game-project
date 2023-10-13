@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://cdnj5sfjjxwxe"]
+
+[ext_resource type="Script" path="res://MapGenerator.gd" id="1_yhgmt"]
+
+[node name="MapGenerator" type="Node3D"]
+script = ExtResource("1_yhgmt")

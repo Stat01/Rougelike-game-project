@@ -2,8 +2,8 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bghnqwspxxwym"
-path.s3tc="res://.godot/imported/Terrorist_d85181c7347ed28775b3d85e2042870f--kriss-vector-submachine-g.png-b18669cf457a596499e8e3cb43c33ac4.s3tc.ctex"
+uid="uid://buvgobuprkyxu"
+path.s3tc="res://.godot/imported/Terrorist_d85181c7347ed28775b3d85e2042870f--kriss-vector-submachine-gun.png-917ce007947db25e82fb63dd859adbfe.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ generator_parameters={}
 
 [deps]
 
-source_file="res://Terrorist_d85181c7347ed28775b3d85e2042870f--kriss-vector-submachine-g.png"
-dest_files=["res://.godot/imported/Terrorist_d85181c7347ed28775b3d85e2042870f--kriss-vector-submachine-g.png-b18669cf457a596499e8e3cb43c33ac4.s3tc.ctex"]
+source_file="res://Characters/Enemies/Test enemy/Terrorist_d85181c7347ed28775b3d85e2042870f--kriss-vector-submachine-gun.png"
+dest_files=["res://.godot/imported/Terrorist_d85181c7347ed28775b3d85e2042870f--kriss-vector-submachine-gun.png-917ce007947db25e82fb63dd859adbfe.s3tc.ctex"]
 
 [params]
 

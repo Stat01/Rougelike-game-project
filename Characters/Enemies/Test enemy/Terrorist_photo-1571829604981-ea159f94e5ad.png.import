@@ -2,8 +2,8 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://lelwwtbi0frj"
-path.s3tc="res://.godot/imported/Terrorist_Evidence-Based_e1c46a27-7e9e-4695-bcdd-65ec8a2faad8 (1).png-331e5c0fd6ec30f31f61a6e760a8fb74.s3tc.ctex"
+uid="uid://bw38qp8kns85y"
+path.s3tc="res://.godot/imported/Terrorist_photo-1571829604981-ea159f94e5ad.png-82963f8478f371d3b6de4dc1b00b54d0.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ generator_parameters={}
 
 [deps]
 
-source_file="res://Terrorist_Evidence-Based_e1c46a27-7e9e-4695-bcdd-65ec8a2faad8 (1).png"
-dest_files=["res://.godot/imported/Terrorist_Evidence-Based_e1c46a27-7e9e-4695-bcdd-65ec8a2faad8 (1).png-331e5c0fd6ec30f31f61a6e760a8fb74.s3tc.ctex"]
+source_file="res://Characters/Enemies/Test enemy/Terrorist_photo-1571829604981-ea159f94e5ad.png"
+dest_files=["res://.godot/imported/Terrorist_photo-1571829604981-ea159f94e5ad.png-82963f8478f371d3b6de4dc1b00b54d0.s3tc.ctex"]
 
 [params]
 
